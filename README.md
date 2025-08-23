@@ -43,10 +43,7 @@
 
 ## 📜 Certifications
 - Fundamentals of Cybersecurity *(EDU-102)*  
-- Introduction to Networking for Cyber Professionals  
-- Workshop on Supercomputing & HPC Systems  
-- SQL & Database Design *(Newton School)*  
-- Aptitude & Problem-Solving Challenge *(HP Power Lab)*  
+- Introduction to Networking for Cyber Professionals 
 
 ---
 
@@ -64,7 +61,7 @@
 📫 **Contact Me:**  
 - Email: [dipanshu.adhikari01@gmail.com](mailto:dipanshu.adhikari01@gmail.com)  
 - LinkedIn: [linkedin.com/in/dipanshu-adhikari](https://www.linkedin.com/in/dipanshu-adhikari)  
-- GitHub: [github.com/dipanshu-adhikari](https://github.com/dipanshu-adhikari)  
+- GitHub: [github.com/dipanshu-adhikari](https://github.com/Dipansh01)  
 
 <p align="center">
   <a href="mailto:dipanshu.adhikari01@gmail.com">
