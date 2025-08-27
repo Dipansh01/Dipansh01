@@ -6,18 +6,18 @@
 
 ## 💫 About Me
 - Currently pursuing **B.Tech in Computer Science & Engineering (AI Specialization)** at *GL Bajaj Institute of Technology & Management* (2023–2027).  
-- Skilled in **Java, Python, C, HTML, OOP, and Web Development**.  
-- Exploring **Artificial Intelligence, Cybersecurity, and Networking**.  
+- Skilled in **Java, Python, C, OOPs, and HTML**.  
+- Exploring **Artificial Intelligence and Machine Learning**.  
 - Passionate about solving real-world problems through **AI, Scalable Web Apps, and Automation**.  
-- Looking for opportunities in **Software Development, AI & Cybersecurity**.  
+- Looking for opportunities in **Software Development & AI**.  
 
 ---
 
 ## 🛠 Skills
 - **Languages:** Java, Python, C, HTML, CSS, JavaScript  
-- **Core Concepts:** Object-Oriented Programming (OOP), Problem Solving, Data Structures  
-- **Developer Tools:** VS Code, GitHub, Linux  
-- **Technologies & Frameworks:** FastAPI, Bootstrap, Netlify, Heroku  
+- **Core Concepts:** Object-Oriented Programming (OOPs), Problem Solving, Data Structures  
+- **Developer Tools:** VS Code, Git, GitHub  
+- **Technologies & Frameworks:** FastAPI, Bootstrap
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
@@ -35,9 +35,7 @@
 ---
 
 ## 💡 Projects
-- **AI-Powered Sanitization Monitoring System** – Real-time AI monitoring for cleaning verification.  
-- **Agricultural Marketplace Platform** – Online platform connecting farmers, suppliers & buyers.  
-- **Mentor Matrix** – Smart mentor-mentee pairing system.  
+- **AI-Based Gym Chatbot** – Ask any gym related query! 
 
 ---
 
