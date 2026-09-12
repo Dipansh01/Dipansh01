@@ -11,7 +11,7 @@
 - 🎓 Pursuing **B.Tech in Computer Science & AI** at **GL Bajaj Institute of Technology & Management** *(2023 – 2027)*
 - 🌱 Currently learning **Spring Boot, React, Docker, and Backend Development**
 - 💡 Strong understanding of **Java, Spring Boot, REST APIs, SQL, OOP, and Data Structures**
-- 🧩 Solved **350+ DSA Problems** across **LeetCode** and **GeeksforGeeks**
+- 🧩 Solved **400+ DSA Problems** across **LeetCode** and **GeeksforGeeks**
 - 🚀 Interested in **Backend Development, Software Engineering, and Full-Stack Development**
 - 🤝 Looking for **Software Development Engineer (SDE)** and **Backend Developer** opportunities
 
@@ -64,7 +64,7 @@
 ## 🏆 Achievements
 
 - 🥇 Cleared the **Internal Round of Smart India Hackathon (SIH) 2025**
-- 💯 Solved **350+ DSA Problems** across LeetCode & GeeksforGeeks
+- 💯 Solved **400+ DSA Problems** across LeetCode & GeeksforGeeks
 
 ---
 
